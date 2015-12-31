@@ -30,8 +30,9 @@
 <a href="http://garden.decoder.com.tw/insnergy/" target="_blank">Insnergy</a><br>
 <a href="http://garden.decoder.com.tw/portal/demo/shin_mini_site_03/" target="_blank">新光銀行信用貸款</a><br>
 
-# 年度自我檢討
-
+# 檢討部分
+1. 需要主動一點, 遇到困難要馬上發問<br>
+2. 需要整理好, 
 
 # 2016 雲端探險
 <a href="http://sass-lang.com/" target="_blank">sass</a><br>
