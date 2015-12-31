@@ -27,6 +27,8 @@
 <a href="http://garden.decoder.com.tw/portal/demo/come4table_minisite/">媽煮湯-補湯系列</a><br>
 <a href="http://garden.decoder.com.tw/portal/demo/come4table_minisite2/">媽煮湯-媽煮湯的一天</a><br>
 
+<a href="http://garden.decoder.com.tw/tsntu_admin/security.do?action=login">曾文水庫泥砂濃度觀測系統</a><br>
+
 <a href="http://garden.decoder.com.tw/framy/" target="_blank">Framy</a><br>
 <a href="http://garden.decoder.com.tw/framy/login.html" target="_blank">Framy-login</a><br>
 <a href="http://garden.decoder.com.tw/framy/about.html" target="_blank">Framy-about</a><br>
