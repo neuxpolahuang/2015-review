@@ -30,7 +30,6 @@
 <a href="http://garden.decoder.com.tw/framy/" target="_blank">Framy</a><br>
 <a href="http://garden.decoder.com.tw/framy/login.html" target="_blank">Framy-login</a><br>
 <a href="http://garden.decoder.com.tw/framy/about.html" target="_blank">Framy-about</a><br>
-<a href="http://garden.decoder.com.tw/framy/about.html" target="_blank">Framy-about</a><br>
 
 <a href="http://garden.decoder.com.tw/insnergy/" target="_blank">Insnergy</a><br>
 
