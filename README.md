@@ -31,8 +31,10 @@
 <a href="http://garden.decoder.com.tw/portal/demo/shin_mini_site_03/" target="_blank">新光銀行信用貸款</a><br>
 
 # 檢討部分
-1. 需要主動一點, 遇到困難要馬上發問<br>
-2. 需要整理好, 
+1. 自己需要主動一點, 遇到困難要馬上發問, 不要花很多時間自己找答案@@<br>
+2. 需要整理一份更完整的sass資料庫<br>
+3. 認識Bootstrap所有專屬定義的class, 幫助自己在修改(以Bootstrap切版的網頁)這型網頁時發生class命名相同的錯誤<br>
+4. 在切版的時候盡可能開啟 Chrome,Firefox,IE-8,IE-9,IE-10,IE-11 瀏覽器, 切版的同時就檢查各個瀏覽器跑版情況
 
 # 2016 雲端探險
 <a href="http://sass-lang.com/" target="_blank">sass</a><br>
