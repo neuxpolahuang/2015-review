@@ -7,6 +7,11 @@
 <a href="http://garden.decoder.com.tw/portal/demo/flipboard/page-2.html">flipboard-page-2</a><br>
 <a href="http://garden.decoder.com.tw/portal/demo/flipboard/photoBox.html">flipboard-photoBox</a><br>
 
+<a href="http://garden.decoder.com.tw/portal/demo/cms/lexus/lexus-a.html">lexus-a</a><br>
+<a href="http://garden.decoder.com.tw/portal/demo/cms/lexus/lexus-b.html">lexus-b</a><br>
+<a href="http://garden.decoder.com.tw/portal/demo/cms/lexus/lexus-c.html">lexus-c</a><br>
+<a href="http://garden.decoder.com.tw/portal/demo/cms/lexus/lexus-d.html">lexus-d</a><br>
+
 <a href="http://garden.decoder.com.tw/framy/" target="_blank">Framy</a><br>
 <a href="http://garden.decoder.com.tw/insnergy/" target="_blank">Insnergy</a><br>
 <a href="http://garden.decoder.com.tw/portal/demo/shin_mini_site_03/" target="_blank">新光銀行信用貸款</a><br>
